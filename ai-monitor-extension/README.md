@@ -23,7 +23,7 @@ Start the backend from `C:\projects\ai-monitor-backend`:
 npm start
 ```
 
-The extension posts captures to the backend URL configured in the popup. By default it uses `http://localhost:3000`.
+The extension posts captures to the backend URL configured in the popup. By default it uses `https://ai-usage-tracker-meeu.onrender.com`.
 
 For Render testing:
 
